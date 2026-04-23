@@ -1,6 +1,5 @@
 # 🎵 Spotify Track Analysis: Foundations of Data Science Capstone
 
-[![Python](https://img.shields.io/badge/Python-3.x-blue.svg)](https://www.python.org/)
 [![Pandas](https://img.shields.io/badge/Pandas-Data%20Wrangling-orange.svg)](https://pandas.pydata.org/)
 [![Matplotlib](https://img.shields.io/badge/Matplotlib-Visualization-green.svg)](https://matplotlib.org/)
 
@@ -13,7 +12,7 @@ This project is a comprehensive data analysis of the Spotify dataset, completed 
 
 ## 👥 Group Members
 * **Member 1:** Aayush [AayushCode24-7]
-* **Member 2:** Aditya [aditiyasyntaxerror]
+* **Member 2:** Aditya [adityasyntaxerror]
 * **Member 3:** Sanskar Vikas Patil [sanskarpatil2716-prog]
 
 ---
