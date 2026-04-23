@@ -2,6 +2,7 @@
 
 [![Pandas](https://img.shields.io/badge/Pandas-Data%20Wrangling-orange.svg)](https://pandas.pydata.org/)
 [![Matplotlib](https://img.shields.io/badge/Matplotlib-Visualization-green.svg)](https://matplotlib.org/)
+[![Seaborn](https://img.shields.io/badge/Seaborn-Visualization-blue.svg)](https://seaborn.org/)
 
 ## 📝 Project Overview
 This project is a comprehensive data analysis of the Spotify dataset, completed as part of the **Foundations of Data Science** capstone. We explore the relationship between audio features (energy, loudness, danceability) and track popularity across various genres.
