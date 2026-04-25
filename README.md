@@ -12,9 +12,9 @@ This project is a comprehensive data analysis of the Spotify dataset, completed 
 ---
 
 ## 👥 Group Members
-* **Member 1:** Aayush /[AayushCode24-7]
-* **Member 2:** Aditya /[adityasyntaxerror]
-* **Member 3:** Sanskar/[sanskarpatil2716-prog]
+* **Member 1:** Aayush / 2502140003
+* **Member 2:** Aditya / 2502140115
+* **Member 3:** Sanskar/ 2502140067
 
 ---
 
