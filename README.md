@@ -63,5 +63,3 @@ We followed a systematic Data Science lifecycle:
 * **Jupyter Notebook:** `Foundations_of_DS_Capstone.ipynb` (Clean, commented code)
 * **Business Report:** `Capstone_Business_Report.pdf`
 * **Presentation:** `Project_Presentation.pptx`
-
----
