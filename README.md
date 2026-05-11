@@ -65,4 +65,3 @@ We followed a systematic Data Science lifecycle:
 * **Presentation:** `Project_Presentation.pptx`
 
 ---
-*Created for the Foundations of Data Science Course - April 2026*
